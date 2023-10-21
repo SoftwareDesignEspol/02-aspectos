@@ -6,3 +6,5 @@ https://github.com/brauliorivas/02-aspectos
 Lorenzo López Erick
 ![image](https://github.com/brauliorivas/02-aspectos/assets/127678881/ed332aad-63ee-4770-9bec-79f3dc636a74)
 
+Anthony Herrera León
+![image](https://github.com/brauliorivas/02-aspectos/assets/137233273/271a0730-15f8-41b4-aa0e-707a00d31b89)
