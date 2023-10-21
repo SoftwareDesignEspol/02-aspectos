@@ -8,3 +8,6 @@ Lorenzo López Erick
 
 Anthony Herrera León
 ![image](https://github.com/brauliorivas/02-aspectos/assets/137233273/271a0730-15f8-41b4-aa0e-707a00d31b89)
+
+Josue Guerrero
+![image](https://github.com/brauliorivas/02-aspectos/assets/124281945/746fa347-336c-4fa9-bd38-b5f12765b9b5)
